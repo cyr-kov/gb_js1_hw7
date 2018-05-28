@@ -37,3 +37,7 @@ td.game-table-cell{
 .cactus-unit{
     background-color: lime;
 }
+
+#scorediv{
+    display:inline-block;
+}
